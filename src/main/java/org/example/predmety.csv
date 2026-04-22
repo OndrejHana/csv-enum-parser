@@ -1,0 +1,11 @@
+kod_predmetu,nazev,typ,kredity,semestr,vyucujici,katedra,kapacita,forma,vyuka,anotace
+PRG101,Úvod do programování,Povinný,6,ZS,doc. Novák,KI,120,kombinovaná,přednáška+cvičení,Základy algoritmizace a programování v jazyce Python
+MAT201,Lineární algebra,Povinný,5,ZS,prof. Svoboda,KM,80,přítomná,přednáška+cvičení,Vektory matice a lineární rovnice
+WEB301,Tvorba webových aplikací,Výběrový,4,LS,dr. Dvořák,KI,30,přítomná,cvičení,Moderní webové technologie HTML CSS a JavaScript
+DBS205,Databázové systémy,Povinný,6,LS,doc. Černá,KI,40,přítomná,cvičení,Návrh a implementace relačních databází
+PSY101,Psychologie práce,Výběrový,3,ZS,dr. Kučera,KPS,60,kombinovaná,přednáška,Základy pracovní a organizační psychologie
+ENG102,Angličtina pro IT,Bc povinný,4,ZS,Mgr. Veselá,KJ,25,přítomná,cvičení,Odborná angličtina pro technické obory
+AI401,Strojové učení,Výběrový,5,LS,dr. Horáček,KI,35,přítomná,přednáška+cvičení,Základy neuronových sítí a hlubokého učení
+MAN301,Projektový management,Výběrový,4,ZS,doc. Němcová,KEM,50,kombinovaná,přednáška,Řízení projektů v IT a podnikání
+NET202,Počítačové sítě,Povinný,5,LS,dr. Procházka,KI,45,přítomná,cvičení,Architektura a správa počítačových sítí
+ETH104,Etika v informatice,Výběrový,2,ZS,dr. Marek,KFI,100,distanční,přednáška,Morální a etické otázky moderních technologií
