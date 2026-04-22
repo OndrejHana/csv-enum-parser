@@ -203,6 +203,14 @@ public class Main {
             } catch (IllegalArgumentException e) {
                 System.out.println("predmety.csv with Ucebna header (wrong structure) fails: " + e.getMessage());
             }
+
+            Path invalidCsv =
+                    args.length > 2 ? Path.of(args[2]) : Path.of("src/main/java/org/example/invalid.csv");
+            try {
+                parseCsvToMaps(invalidCsv, Ucebna.class);
+            } catch (IllegalArgumentException e) {
+                System.out.println("invalid.csv (bad header) fails: " + e.getMessage());
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }

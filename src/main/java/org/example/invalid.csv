@@ -1,0 +1,11 @@
+spatny_kod_ucebny,nazev,budova,patro,kapacita_mist,typ_ucebny,pocet_pocitacu,projektor,interaktivni_tabule,wifi,klimatizace,ozvuceni,videokonference,spravce,poznamka,aktivni
+A-101,Velká posluchárna A,Budova A,1,180,posluchárna,0,1,1,1,1,1,0,Katedra matematiky,Bezbariérový přístup,1
+A-205,Seminární místnost 5,Budova A,2,25,seminárka,0,1,0,1,0,0,0,Katedra matematiky,,1
+B-304,Počítačová učebna 1,Budova B,3,24,počítačová učebna,24,1,0,1,1,1,0,Katedra informatiky,Dual boot Win/Linux,1
+B-305,Počítačová učebna 2,Budova B,3,20,počítačová učebna,20,1,0,1,1,1,0,Katedra informatiky,Speciální SW pro grafiku,1
+C-102,Chemická laboratoř,Chemické centrum,1,16,laboratoř,2,1,0,1,1,0,0,Katedra chemie,Odpadní digestoř,1
+C-103,Fyzikální laboratoř,Chemické centrum,1,12,laboratoř,4,1,1,1,0,0,0,Katedra fyziky,Měřicí přístroje Pasco,1
+D-001,Jazykové studio,Filozofická fakulta,0,15,počítačová učebna,15,0,0,1,0,1,0,Ústav jazyků,Sluchátka Sennheiser,1
+D-201,Konferenční místnost,Filozofická fakulta,2,40,seminárka,0,1,0,1,1,1,1,Rektorát,Rezervace přes sekretariát,1
+E-404,Malá posluchárna,Budova E,4,45,posluchárna,0,1,0,1,0,1,0,Katedra ekonomie,,1
+B-201,Stará učebna (mimo provoz),Budova B,2,30,seminárka,0,0,0,0,0,0,0,Katedra informatiky,Rekonstrukce plánována 2026,0
